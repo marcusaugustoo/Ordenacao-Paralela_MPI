@@ -1,11 +1,13 @@
 # Ordenação Paralela com MPI - Windows
 
-Este projeto implementa algoritmos de ordenação **sequencial** e **paralela** usando MPI em C no Windows.
+Este projeto implementa algoritmos de ordenação **sequencial** e **paralela** usando MPI em C no Windows. 
+No caso, foi utilizado o Sample Sort para testes comparativos.
 
 ## Estrutura do projeto
 
 
 - sample/      Algoritmo + Resultados de execução paralela
+
 - sequencial/  Algoritmo + Resultados de execução sequencial
 
 
