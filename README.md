@@ -4,9 +4,9 @@ Este projeto implementa algoritmos de ordenação **sequencial** e **paralela** 
 
 ## Estrutura do projeto
 
-.
-├── sample/           # Algoritmo + Resultados de execução paralela
-└── sequencial/       # Algoritmo + Resultados de execução sequencial
+
+- sample/      Algoritmo + Resultados de execução paralela
+- sequencial/  Algoritmo + Resultados de execução sequencial
 
 
 > **Inputs não estão no repositório** devido ao tamanho (~2GB).  
