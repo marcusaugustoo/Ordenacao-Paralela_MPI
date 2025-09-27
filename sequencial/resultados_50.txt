@@ -1,0 +1,9 @@
+Sequencial
+100k -> 0.031000 segundos
+1M -> 0.482000 segundos
+10M -> 6.357000 segundos
+
+
+
+
+

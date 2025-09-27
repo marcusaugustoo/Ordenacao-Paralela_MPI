@@ -1,0 +1,22 @@
+SAMPLE
+
+1 núcleo 
+*100k -> 0.086804 segundos
+*1M -> 1.039974 segundos
+*10M -> 8.944420 segundos
+
+2 núcleos 
+*100k ->  0.072550 segundos
+*1M ->  0.871173 segundos
+*10M ->  8.370024 segundos
+
+4 núcleos 
+*100k -> 0.0324233 segundos
+*1M -> 0.431625 segundos
+*10M -> 4.050904 segundos
+
+8 núcleos
+*100k -> 0.023935 segundos
+*1M -> 0.265002 segundos
+*10M -> 2.769441 segundos
+
